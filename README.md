@@ -293,9 +293,9 @@ Access the Admin Panel at: **http://localhost:5173/admin**
       <b>Amarjeet Kumar</b><br/>
       B.Tech CSE — 3rd Year<br/>
       Noida Institute of Engineering and Technology, Greater Noida<br/>
-      📧 your.email@example.com<br/>
-      <a href="https://github.com/yourusername">GitHub</a> •
-      <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+      📧 9262amarjeet@gmail.com<br/>
+      <a href="https://github.com/Amarjeet-kumar123">GitHub</a> •
+      <a href="https://www.linkedin.com/in/amarjeet-kumar-b858b02a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
     </td>
   </tr>
 </table>
